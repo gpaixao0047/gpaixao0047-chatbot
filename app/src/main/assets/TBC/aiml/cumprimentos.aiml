@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>Olá</pattern>
+    <template>
+        <random>
+            <li>Oi</li>
+            <li>Olá</li> 
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Oi</pattern>
+    <template>
+        <random>
+            <li>Oi</li>
+            <li>Olá</li>
+            <li>Oi! Em que posso ajudar?</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Hello</pattern>
+    <template>
+        <random>
+            <li>Hi</li>
+            <li>Hello</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Hi</pattern>
+    <template>
+        <random>
+            <li>Hi</li>
+            <li>Hello</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Qual é o seu nome</pattern>
+    <template>
+        <random>
+            <li>Meu nome é Texugo.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Quem é a melhor namorada</pattern>
+    <template>
+        <random>
+            <li>Larissa é a melhor namorada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* seu nome *</pattern>
+    <template>
+        <random>
+            <li>Meu nome é Dani.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>O que você é</pattern>
+    <template>
+        <random>
+            <li>Eu sou um bot!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>O que você e</pattern>
+    <template>
+        <random>
+            <li>Eu sou um bot!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Tudo bem</pattern>
+    <template>
+        <random>
+            <li>Sim, e você?</li>
+            <li>Tudo ótimo! E você?</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Tchau</pattern>
+    <template>
+        <random>
+            <li>Tchau!</li>
+            <li>Até mais.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>Tchau *</pattern>
+    <template>
+        <random>
+            <li>Tchau!</li>
+            <li>Até mais.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* Tchau</pattern>
+    <template>
+        <random>
+            <li>Tchau!</li>
+            <li>Até mais.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Estou bem</pattern>
+    <template>
+        <random>
+            <li>Sim, e você?</li>
+            <li>Que bom! O que você deseja saber sobre AG, AI e ontologias?</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Como voce esta</pattern>
+    <template>
+        <random>
+            <li>Muito bem! Obrigada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Como você está</pattern>
+    <template>
+        <random>
+            <li>Muito bem! Obrigada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>O que você eh</pattern>
+    <template>
+        <random>
+            <li>Eu sou um bot!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* criador *</pattern>
+    <template>
+        <random>
+            <li>Meu criador é Guilherme Paixao!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>criador</pattern>
+    <template>
+        <random>
+            <li>Meu criador é Guilherme Paixao!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>criador *</pattern>
+    <template>
+        <random>
+            <li>Meu criador é Guilherme Paixao!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* criador</pattern>
+    <template>
+        <random>
+            <li>Meu criador é Guilherme Paixao!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* criadora *</pattern>
+    <template>
+        <random>
+            <li>Meu criador é Guilherme Paixao!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* criadora</pattern>
+    <template>
+        <random>
+            <li>Meu criador é Guilherme Paixao!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>criadora *</pattern>
+    <template>
+        <random>
+            <li>Meu criador é Guilherme Paixao!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>criadora</pattern>
+    <template>
+        <random>
+            <li>Meu criador é Guilherme Paixao!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>qual nome do melhor pai</pattern>
+    <template>
+        <random>
+            <li>Valmir Guedes paixao é o melhor pai</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>quem é o melhor gestor da techno software</pattern>
+    <template>
+        <random>
+            <li>Thiago é o melhor gestor sem duvida!!</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>brasil</pattern>
+    <template>
+        <random>
+            <li>Brasilia</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Estados unidos</pattern>
+    <template>
+        <random>
+            <li>A capital dos Estados Unidos é Washington, D.C.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Japao</pattern>
+    <template>
+        <random>
+            <li>A capital do Japao é Tóquio.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Argentina</pattern>
+    <template>
+        <random>
+            <li>A capital da Argentina Buenos aires.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Peru</pattern>
+    <template>
+        <random>
+            <li>A capital do Peru é Lima.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Colombia</pattern>
+    <template>
+        <random>
+            <li>A capital da colombia é Bogota</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Paraguia</pattern>
+    <template>
+        <random>
+            <li>A capital do Paraguai é Assunção</li>
+        </random>
+    </template>
+</category>
+</aiml>

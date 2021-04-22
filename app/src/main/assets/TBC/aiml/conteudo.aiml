@@ -1,0 +1,4228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+<category>
+    <pattern>* APTIDÃO</pattern>
+    <template>
+        <random>
+            <li>É medida pela função fitness (função de aptidão), para saber quais indivíduos são mais aptos, o valor final alcançado pode ser de minimização ou maximização.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>APTIDÃO</pattern>
+    <template>
+        <random>
+            <li>É medida pela função fitness (função de aptidão), para saber quais indivíduos são mais aptos, o valor final alcançado pode ser de minimização ou maximização.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>APTIDÃO *</pattern>
+    <template>
+        <random>
+            <li>É medida pela função fitness (função de aptidão), para saber quais indivíduos são mais aptos, o valor final alcançado pode ser de minimização ou maximização.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* APTIDAO</pattern>
+    <template>
+        <random>
+            <li>É medida pela função fitness (função de aptidão), para saber quais indivíduos são mais aptos, o valor final alcançado pode ser de minimização ou maximização.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>APTIDAO</pattern>
+    <template>
+        <random>
+            <li>É medida pela função fitness (função de aptidão), para saber quais indivíduos são mais aptos, o valor final alcançado pode ser de minimização ou maximização.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>APTIDAO *</pattern>
+    <template>
+        <random>
+            <li>É medida pela função fitness (função de aptidão), para saber quais indivíduos são mais aptos, o valor final alcançado pode ser de minimização ou maximização.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* APTIDAO *</pattern>
+    <template>
+        <random>
+            <li>É medida pela função fitness (função de aptidão), para saber quais indivíduos são mais aptos, o valor final alcançado pode ser de minimização ou maximização.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* FITNESS</pattern>
+    <template>
+        <random>
+            <li>É a função que mede a aptidão dos indivíduos, através da função f(i) = q(i)/Ei(q(j)).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>FITNESS</pattern>
+    <template>
+        <random>
+            <li>É a função que mede a aptidão dos indivíduos, através da função f(i) = q(i)/Ei(q(j)).</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* FITNESS *</pattern>
+    <template>
+        <random>
+            <li>É a função que mede a aptidão dos indivíduos, através da função f(i) = q(i)/Ei(q(j)).</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>FITNESS *</pattern>
+    <template>
+        <random>
+            <li>É a função que mede a aptidão dos indivíduos, através da função f(i) = q(i)/Ei(q(j)).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CROMOSSOMO</pattern>
+    <template>
+        <random>
+            <li>É a representação da carga genética, formado por um conjunto de genes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CROMOSSOMO</pattern>
+    <template>
+        <random>
+            <li>É a representação da carga genética, formado por um conjunto de genes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CROMOSSOMOS</pattern>
+    <template>
+        <random>
+            <li>É a representação da carga genética, formado por um conjunto de genes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CROMOSSOMO *</pattern>
+    <template>
+        <random>
+            <li>É a representação da carga genética, formado por um conjunto de genes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CROMOSSOMOS *</pattern>
+    <template>
+        <random>
+            <li>É a representação da carga genética, formado por um conjunto de genes.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>CROMOSSOMO *</pattern>
+    <template>
+        <random>
+            <li>É a representação da carga genética, formado por um conjunto de genes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CROMOSSOMOS *</pattern>
+    <template>
+        <random>
+            <li>É a representação da carga genética, formado por um conjunto de genes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CROMOSSOMOS</pattern>
+    <template>
+        <random>
+            <li>É a representação da carga genética, formado por um conjunto de genes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* GENE</pattern>
+    <template>
+        <random>
+            <li>Alocação de um valor, onde as características dos indivíduos são definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* GENES</pattern>
+    <template>
+        <random>
+            <li>Alocação de um valor, onde as características dos indivíduos são definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>GENE</pattern>
+    <template>
+        <random>
+            <li>Alocação de um valor, onde as características dos indivíduos são definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>GENES</pattern>
+    <template>
+        <random>
+            <li>Alocação de um valor, onde as características dos indivíduos são definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* GENE *</pattern>
+    <template>
+        <random>
+            <li>Alocação de um valor, onde as características dos indivíduos são definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* GENES *</pattern>
+    <template>
+        <random>
+            <li>Alocação de um valor, onde as características dos indivíduos são definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>GENE *</pattern>
+    <template>
+        <random>
+            <li>Alocação de um valor, onde as características dos indivíduos são definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>GENES *</pattern>
+    <template>
+        <random>
+            <li>Alocação de um valor, onde as características dos indivíduos são definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* POPULAÇÃO</pattern>
+    <template>
+        <random>
+            <li>É um conjunto de indivíduos, a população inicial é escolhida aleatoriamente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>POPULAÇÃO</pattern>
+    <template>
+        <random>
+            <li>É um conjunto de indivíduos, a população inicial é escolhida aleatoriamente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* POPULAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>É um conjunto de indivíduos, a população inicial é escolhida aleatoriamente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>POPULAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>É um conjunto de indivíduos, a população inicial é escolhida aleatoriamente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* POPULACAO</pattern>
+    <template>
+        <random>
+            <li>É um conjunto de indivíduos, a população inicial é escolhida aleatoriamente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>POPULACAO</pattern>
+    <template>
+        <random>
+            <li>É um conjunto de indivíduos, a população inicial é escolhida aleatoriamente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* POPULACAO *</pattern>
+    <template>
+        <random>
+            <li>É um conjunto de indivíduos, a população inicial é escolhida aleatoriamente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>POPULACAO *</pattern>
+    <template>
+        <random>
+            <li>É um conjunto de indivíduos, a população inicial é escolhida aleatoriamente.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* GERAÇÃO</pattern>
+    <template>
+        <random>
+            <li>É a população em um determinado momento.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>GERAÇÃO</pattern>
+    <template>
+        <random>
+            <li>É a população em um determinado momento.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* GERAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>É a população em um determinado momento.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>GERAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>É a população em um determinado momento.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* GERACAO</pattern>
+    <template>
+        <random>
+            <li>É a população em um determinado momento.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>GERACAO</pattern>
+    <template>
+        <random>
+            <li>É a população em um determinado momento.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* GERACAO *</pattern>
+    <template>
+        <random>
+            <li>É a população em um determinado momento.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>GERACAO *</pattern>
+    <template>
+        <random>
+            <li>É a população em um determinado momento.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CRUZAMENTO</pattern>
+    <template>
+        <random>
+            <li>É o cruzamento da carga genética dos indivíduos, ou seja, é a troca de material genético.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CRUZAMENTO</pattern>
+    <template>
+        <random>
+            <li>É o cruzamento da carga genética dos indivíduos, ou seja, é a troca de material genético.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CRUZAMENTO *</pattern>
+    <template>
+        <random>
+            <li>É o cruzamento da carga genética dos indivíduos, ou seja, é a troca de material genético.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CRUZAMENTO *</pattern>
+    <template>
+        <random>
+            <li>É o cruzamento da carga genética dos indivíduos, ou seja, é a troca de material genético.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CRUZAMENTOS</pattern>
+    <template>
+        <random>
+            <li>É o cruzamento da carga genética dos indivíduos, ou seja, é a troca de material genético.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CRUZAMENTOS</pattern>
+    <template>
+        <random>
+            <li>É o cruzamento da carga genética dos indivíduos, ou seja, é a troca de material genético.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CRUZAMENTOS *</pattern>
+    <template>
+        <random>
+            <li>É o cruzamento da carga genética dos indivíduos, ou seja, é a troca de material genético.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CRUZAMENTOS *</pattern>
+    <template>
+        <random>
+            <li>É o cruzamento da carga genética dos indivíduos, ou seja, é a troca de material genético.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* MUTAÇÃO</pattern>
+    <template>
+        <random>
+            <li>É a alteração de um gene na carga genética de um indivíduo.</li>
+            <li>Tipos de mutação:
+            a) GENERATIVA;
+            b) DESTRUTIVA;
+            c) SWAP;
+            d) SWAP DE SEQUÊNCIA.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>MUTAÇÃO</pattern>
+    <template>
+        <random>
+            <li>É a alteração de um gene na carga genética de um indivíduo.</li>
+            <li>Tipos de mutação:
+            a) GENERATIVA;
+            b) DESTRUTIVA;
+            c) SWAP;
+            d) SWAP DE SEQUÊNCIA.</li></random>
+    </template>
+</category>
+
+<category>
+    <pattern>* MUTAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>É a alteração de um gene na carga genética de um indivíduo.</li>
+            <li>Tipos de mutação:
+            a) GENERATIVA;
+            b) DESTRUTIVA;
+            c) SWAP;
+            d) SWAP DE SEQUÊNCIA.</li></random>
+    </template>
+</category>
+
+<category>
+    <pattern>MUTAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>É a alteração de um gene na carga genética de um indivíduo.</li>
+            <li>Tipos de mutação:
+            a) GENERATIVA;
+            b) DESTRUTIVA;
+            c) SWAP;
+            d) SWAP DE SEQUÊNCIA.</li></random>
+    </template>
+</category>
+
+<category>
+    <pattern>* MUTACAO</pattern>
+    <template>
+        <random>
+            <li>É a alteração de um gene na carga genética de um indivíduo.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>MUTACAO</pattern>
+    <template>
+        <random>
+            <li>É a alteração de um gene na carga genética de um indivíduo.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* MUTACAO *</pattern>
+    <template>
+        <random>
+            <li>É a alteração de um gene na carga genética de um indivíduo.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>MUTACAO *</pattern>
+    <template>
+        <random>
+            <li>É a alteração de um gene na carga genética de um indivíduo.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CONVERGÊNCIA PREMATURA</pattern>
+    <template>
+        <random>
+            <li>É a falha na carga genética ocasionado muitas vezes pela supervalorização de indivíduos bons nas primeiras gerações ou o desprezo de indivíduos ruins no início.</li>
+            <li>Métodos de evitar convergência prematura:
+            a) CROWDIND: substitui os mais semelhantes;
+            b) ESCALONAMENTO: normaliza a função de avaliação;
+            c) SHARING: diminui o score dos indivíduos mais semelhanetes;
+            d) JANELAMENTO: distribui score mínimo para todos;
+            e) ALGORITMOS GENÉTICOS PARALELOS: k populações são iniciadas e evoluem paralelamente, a cada n-ésima geração, as populações trocam indivíduos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CONVERGÊNCIA PREMATURA *</pattern>
+    <template>
+        <random>
+            <li>É a falha na carga genética ocasionado muitas vezes pela supervalorização de indivíduos bons nas primeiras gerações ou o desprezo de indivíduos ruins no início.</li>
+            <li>Métodos de evitar convergência prematura:
+            a) CROWDIND: substitui os mais semelhantes;
+            b) ESCALONAMENTO: normaliza a função de avaliação;
+            c) SHARING: diminui o score dos indivíduos mais semelhanetes;
+            d) JANELAMENTO: distribui score mínimo para todos;
+            e) ALGORITMOS GENÉTICOS PARALELOS: k populações são iniciadas e evoluem paralelamente, a cada n-ésima geração, as populações trocam indivíduos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CONVERGÊNCIA PREMATURA</pattern>
+    <template>
+        <random>
+            <li>É a falha na carga genética ocasionado muitas vezes pela supervalorização de indivíduos bons nas primeiras gerações ou o desprezo de indivíduos ruins no início.</li>
+            <li>Métodos de evitar convergência prematura:
+            a) CROWDIND: substitui os mais semelhantes;
+            b) ESCALONAMENTO: normaliza a função de avaliação;
+            c) SHARING: diminui o score dos indivíduos mais semelhanetes;
+            d) JANELAMENTO: distribui score mínimo para todos;
+            e) ALGORITMOS GENÉTICOS PARALELOS: k populações são iniciadas e evoluem paralelamente, a cada n-ésima geração, as populações trocam indivíduos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CONVERGÊNCIA PREMATURA *</pattern>
+    <template>
+        <random>
+            <li>É a falha na carga genética ocasionado muitas vezes pela supervalorização de indivíduos bons nas primeiras gerações ou o desprezo de indivíduos ruins no início.</li>
+            <li>Métodos de evitar convergência prematura:
+            a) CROWDIND: substitui os mais semelhantes;
+            b) ESCALONAMENTO: normaliza a função de avaliação;
+            c) SHARING: diminui o score dos indivíduos mais semelhanetes;
+            d) JANELAMENTO: distribui score mínimo para todos;
+            e) ALGORITMOS GENÉTICOS PARALELOS: k populações são iniciadas e evoluem paralelamente, a cada n-ésima geração, as populações trocam indivíduos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CONVERGENCIA PREMATURA</pattern>
+    <template>
+        <random>
+            <li>É a falha na carga genética ocasionado muitas vezes pela supervalorização de indivíduos bons nas primeiras gerações ou o desprezo de indivíduos ruins no início.</li>
+            <li>Métodos de evitar convergência prematura:
+            a) CROWDIND: substitui os mais semelhantes;
+            b) ESCALONAMENTO: normaliza a função de avaliação;
+            c) SHARING: diminui o score dos indivíduos mais semelhanetes;
+            d) JANELAMENTO: distribui score mínimo para todos;
+            e) ALGORITMOS GENÉTICOS PARALELOS: k populações são iniciadas e evoluem paralelamente, a cada n-ésima geração, as populações trocam indivíduos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CONVERGENCIA PREMATURA</pattern>
+    <template>
+        <random>
+            <li>É a falha na carga genética ocasionado muitas vezes pela supervalorização de indivíduos bons nas primeiras gerações ou o desprezo de indivíduos ruins no início.</li>
+            <li>Métodos de evitar convergência prematura:
+            a) CROWDIND: substitui os mais semelhantes;
+            b) ESCALONAMENTO: normaliza a função de avaliação;
+            c) SHARING: diminui o score dos indivíduos mais semelhanetes;
+            d) JANELAMENTO: distribui score mínimo para todos;
+            e) ALGORITMOS GENÉTICOS PARALELOS: k populações são iniciadas e evoluem paralelamente, a cada n-ésima geração, as populações trocam indivíduos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CONVERGENCIA PREMATURA *</pattern>
+    <template>
+        <random>
+            <li>É a falha na carga genética ocasionado muitas vezes pela supervalorização de indivíduos bons nas primeiras gerações ou o desprezo de indivíduos ruins no início.</li>
+            <li>Métodos de evitar convergência prematura:
+            a) CROWDIND: substitui os mais semelhantes;
+            b) ESCALONAMENTO: normaliza a função de avaliação;
+            c) SHARING: diminui o score dos indivíduos mais semelhanetes;
+            d) JANELAMENTO: distribui score mínimo para todos;
+            e) ALGORITMOS GENÉTICOS PARALELOS: k populações são iniciadas e evoluem paralelamente, a cada n-ésima geração, as populações trocam indivíduos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CONVERGENCIA PREMATURA *</pattern>
+    <template>
+        <random>
+            <li>É a falha na carga genética ocasionado muitas vezes pela supervalorização de indivíduos bons nas primeiras gerações ou o desprezo de indivíduos ruins no início.</li>
+            <li>Métodos de evitar convergência prematura:
+            a) CROWDIND: substitui os mais semelhantes;
+            b) ESCALONAMENTO: normaliza a função de avaliação;
+            c) SHARING: diminui o score dos indivíduos mais semelhanetes;
+            d) JANELAMENTO: distribui score mínimo para todos;
+            e) ALGORITMOS GENÉTICOS PARALELOS: k populações são iniciadas e evoluem paralelamente, a cada n-ésima geração, as populações trocam indivíduos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SELEÇÃO</pattern>
+    <template>
+        <random>
+            <li>Propagar material genético dos indivíduos mais adaptados.</li>
+            <li>Algumas formas de seleção:
+            a) RANKING: os mais adaptados;
+            b) ROLETA: ranking probabilístico pselect(i) = f(i)/Ef(j);
+            c) TORNEIO: eliminatórias 2 a 2.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SELEÇÃO</pattern>
+    <template>
+        <random>
+            <li>Propagar material genético dos indivíduos mais adaptados.</li>
+            <li>Algumas formas de seleção:
+            a) RANKING: os mais adaptados;
+            b) ROLETA: ranking probabilístico pselect(i) = f(i)/Ef(j);
+            c) TORNEIO: eliminatórias 2 a 2.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SELEÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Propagar material genético dos indivíduos mais adaptados.</li>
+            <li>Algumas formas de seleção:
+            a) RANKING: os mais adaptados;
+            b) ROLETA: ranking probabilístico pselect(i) = f(i)/Ef(j);
+            c) TORNEIO: eliminatórias 2 a 2.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SELEÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Propagar material genético dos indivíduos mais adaptados.</li>
+            <li>Algumas formas de seleção:
+            a) RANKING: os mais adaptados;
+            b) ROLETA: ranking probabilístico pselect(i) = f(i)/Ef(j);
+            c) TORNEIO: eliminatórias 2 a 2.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SELECAO</pattern>
+    <template>
+        <random>
+            <li>Propagar material genético dos indivíduos mais adaptados.</li>
+            <li>Algumas formas de seleção:
+            a) RANKING: os mais adaptados;
+            b) ROLETA: ranking probabilístico pselect(i) = f(i)/Ef(j);
+            c) TORNEIO: eliminatórias 2 a 2.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SELECAO</pattern>
+    <template>
+        <random>
+            <li>Propagar material genético dos indivíduos mais adaptados.</li>
+           <li>Algumas formas de seleção:
+            a) RANKING: os mais adaptados;
+            b) ROLETA: ranking probabilístico pselect(i) = f(i)/Ef(j);
+            c) TORNEIO: eliminatórias 2 a 2.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SELECAO *</pattern>
+    <template>
+        <random>
+            <li>Propagar material genético dos indivíduos mais adaptados.</li>
+            <li>Algumas formas de seleção:
+            a) RANKING: os mais adaptados;
+            b) ROLETA: ranking probabilístico pselect(i) = f(i)/Ef(j);
+            c) TORNEIO: eliminatórias 2 a 2.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SELECAO *</pattern>
+    <template>
+        <random>
+            <li>Propagar material genético dos indivíduos mais adaptados.</li>
+            <li>Algumas formas de seleção:
+            a) RANKING: os mais adaptados;
+            b) ROLETA: ranking probabilístico pselect(i) = f(i)/Ef(j);
+            c) TORNEIO: eliminatórias 2 a 2.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* STEADY-STATE</pattern>
+    <template>
+        <random>
+            <li>É uma forma de substituição de indivíduos. Preserva os melhores indivíduos entre uma geração e outra, evitando a ocorrência de eventuais oscilações na curva de evolução (m+l).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>STEADY-STATE</pattern>
+    <template>
+        <random>
+            <li>É uma forma de substituição de indivíduos. Preserva os melhores indivíduos entre uma geração e outra, evitando a ocorrência de eventuais oscilações na curva de evolução (m+l).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>STEADY-STATE *</pattern>
+    <template>
+        <random>
+            <li>É uma forma de substituição de indivíduos. Preserva os melhores indivíduos entre uma geração e outra, evitando a ocorrência de eventuais oscilações na curva de evolução (m+l).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* STEADY-STATE *</pattern>
+    <template>
+        <random>
+            <li>É uma forma de substituição de indivíduos. Preserva os melhores indivíduos entre uma geração e outra, evitando a ocorrência de eventuais oscilações na curva de evolução (m+l).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SUBSTITUIÇÃO</pattern>
+    <template>
+        <random>
+            <li>Forma de substituir os indivíduos para garantir uma convergência adequada.</li>
+            <li>Duas formas:
+            a) Simples: substitui a antiga geração por uma nova (m,l);
+            b) Steady-state: seleciona os indivíduos mais semelhantes da geração antiga e da geração nova para evitar convergência prematura.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SUBSTITUIÇÃO</pattern>
+    <template>
+        <random>
+            <li>Forma de substituir os indivíduos para garantir uma convergência adequada.</li>
+            <li>Duas formas:
+            a) Simples: substitui a antiga geração por uma nova (m,l);
+            b) Steady-state: seleciona os indivíduos mais semelhantes da geração antiga e da geração nova para evitar convergência prematura.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SUBSTITUIÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Forma de substituir os indivíduos para garantir uma convergência adequada.</li>
+            <li>Duas formas:
+            a) Simples: substitui a antiga geração por uma nova (m,l);
+            b) Steady-state: seleciona os indivíduos mais semelhantes da geração antiga e da geração nova para evitar convergência prematura.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SUBSTITUIÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Forma de substituir os indivíduos para garantir uma convergência adequada.</li>
+            <li>Duas formas:
+            a) Simples: substitui a antiga geração por uma nova (m,l);
+            b) Steady-state: seleciona os indivíduos mais semelhantes da geração antiga e da geração nova para evitar convergência prematura.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SUBSTITUICAO</pattern>
+    <template>
+        <random>
+            <li>Forma de substituir os indivíduos para garantir uma convergência adequada.</li>
+            <li>Duas formas:
+            a) Simples: substitui a antiga geração por uma nova (m,l);
+            b) Steady-state: seleciona os indivíduos mais semelhantes da geração antiga e da geração nova para evitar convergência prematura.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SUBSTITUICAO *</pattern>
+    <template>
+        <random>
+            <li>Forma de substituir os indivíduos para garantir uma convergência adequada.</li>
+            <li>Duas formas:
+            a) Simples: substitui a antiga geração por uma nova (m,l);
+            b) Steady-state: seleciona os indivíduos mais semelhantes da geração antiga e da geração nova para evitar convergência prematura.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SUBSTITUICAO</pattern>
+    <template>
+        <random>
+            <li>Forma de substituir os indivíduos para garantir uma convergência adequada.</li>
+            <li>Duas formas:
+            a) Simples: substitui a antiga geração por uma nova (m,l);
+            b) Steady-state: seleciona os indivíduos mais semelhantes da geração antiga e da geração nova para evitar convergência prematura.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SUBSTITUICAO *</pattern>
+    <template>
+        <random>
+            <li>Forma de substituir os indivíduos para garantir uma convergência adequada.</li>
+            <li>Duas formas:
+            a) Simples: substitui a antiga geração por uma nova (m,l);
+            b) Steady-state: seleciona os indivíduos mais semelhantes da geração antiga e da geração nova para evitar convergência prematura.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ALGORITMOS GENÉTICOS</pattern>
+    <template>
+        <random>
+            <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+            <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+            <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+            <li>Exemplo de um algoritmo genético:
+                       t:=0 //tempo inicial
+                       inicialize a população P(t); //cria a população inicial
+                       calcule a(P(t)) //calcula a aptidão (função objetivo)
+                       enquanto não terminar faça{
+                           t:T+1;
+                           P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                           recombine P1(t); //reprodução (gera descendentes)
+                           mude P1(t); //mutação (diversifica)
+                           evaluate p2(t); //evolução
+                           P:=sobrevivente P, P1(t); //escolhe sobreviventes
+                       }
+                       fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ALGORITMOS GENÉTICOS</pattern>
+    <template>
+        <random>
+            <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+            <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+            <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+            <li>Exemplo de um algoritmo genético:
+                       t:=0 //tempo inicial
+                       inicialize a população P(t); //cria a população inicial
+                       calcule a(P(t)) //calcula a aptidão (função objetivo)
+                       enquanto não terminar faça{
+                           t:T+1;
+                           P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                           recombine P1(t); //reprodução (gera descendentes)
+                           mude P1(t); //mutação (diversifica)
+                           evaluate p2(t); //evolução
+                           P:=sobrevivente P, P1(t); //escolhe sobreviventes
+                       }
+                       fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ALGORITMOS GENÉTICOS *</pattern>
+    <template>
+        <random>
+            <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+            <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+            <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+            <li>Exemplo de um algoritmo genético:
+                       t:=0 //tempo inicial
+                       inicialize a população P(t); //cria a população inicial
+                       calcule a(P(t)) //calcula a aptidão (função objetivo)
+                       enquanto não terminar faça{
+                           t:T+1;
+                           P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                           recombine P1(t); //reprodução (gera descendentes)
+                           mude P1(t); //mutação (diversifica)
+                           evaluate p2(t); //evolução
+                           P:=sobrevivente P, P1(t); //escolhe sobreviventes
+                       }
+                       fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ALGORITMOS GENÉTICOS *</pattern>
+    <template>
+        <random>
+            <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+            <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+            <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+            <li>Exemplo de um algoritmo genético:
+                       t:=0 //tempo inicial
+                       inicialize a população P(t); //cria a população inicial
+                       calcule a(P(t)) //calcula a aptidão (função objetivo)
+                       enquanto não terminar faça{
+                           t:T+1;
+                           P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                           recombine P1(t); //reprodução (gera descendentes)
+                           mude P1(t); //mutação (diversifica)
+                           evaluate p2(t); //evolução
+                           P:=sobrevivente P, P1(t); //escolhe sobreviventes
+                       }
+                       fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+   <pattern>* ALGORITMOS GENETICOS</pattern>
+   <template>
+       <random>
+           <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+           <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+           <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+           <li>Exemplo de um algoritmo genético:
+           t:=0 //tempo inicial
+           inicialize a população P(t); //cria a população inicial
+           calcule a(P(t)) //calcula a aptidão (função objetivo)
+           enquanto não terminar faça{
+               t:T+1;
+               P1:=selecionadescendentes p(t); //seleciona os mais aptos
+               recombine P1(t); //reprodução (gera descendentes)
+               mude P1(t); //mutação (diversifica)
+               evaluate p2(t); //evolução
+               P:=sobrevivente P, P1(t); //escolhe sobreviventes
+           }
+           fim</li>
+       </random>
+   </template>
+</category>
+
+<category>
+   <pattern>ALGORITMOS GENETICOS</pattern>
+   <template>
+       <random>
+           <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+           <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+           <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+           <li>Exemplo de um algoritmo genético:
+           t:=0 //tempo inicial
+           inicialize a população P(t); //cria a população inicial
+           calcule a(P(t)) //calcula a aptidão (função objetivo)
+           enquanto não terminar faça{
+               t:T+1;
+               P1:=selecionadescendentes p(t); //seleciona os mais aptos
+               recombine P1(t); //reprodução (gera descendentes)
+               mude P1(t); //mutação (diversifica)
+               evaluate p2(t); //evolução
+               P:=sobrevivente P, P1(t); //escolhe sobreviventes
+           }
+           fim</li>
+       </random>
+   </template>
+</category>
+
+<category>
+   <pattern>* ALGORITMOS GENETICOS *</pattern>
+   <template>
+       <random>
+           <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+           <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+           <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+           <li>Exemplo de um algoritmo genético:
+           t:=0 //tempo inicial
+           inicialize a população P(t); //cria a população inicial
+           calcule a(P(t)) //calcula a aptidão (função objetivo)
+           enquanto não terminar faça{
+               t:T+1;
+               P1:=selecionadescendentes p(t); //seleciona os mais aptos
+               recombine P1(t); //reprodução (gera descendentes)
+               mude P1(t); //mutação (diversifica)
+               evaluate p2(t); //evolução
+               P:=sobrevivente P, P1(t); //escolhe sobreviventes
+           }
+           fim</li>
+       </random>
+   </template>
+</category>
+
+<category>
+   <pattern>ALGORITMOS GENETICOS *</pattern>
+   <template>
+       <random>
+           <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+           <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+           <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+           <li>Exemplo de um algoritmo genético:
+           t:=0 //tempo inicial
+           inicialize a população P(t); //cria a população inicial
+           calcule a(P(t)) //calcula a aptidão (função objetivo)
+           enquanto não terminar faça{
+               t:T+1;
+               P1:=selecionadescendentes p(t); //seleciona os mais aptos
+               recombine P1(t); //reprodução (gera descendentes)
+               mude P1(t); //mutação (diversifica)
+               evaluate p2(t); //evolução
+               P:=sobrevivente P, P1(t); //escolhe sobreviventes
+           }
+           fim</li>
+       </random>
+   </template>
+</category>
+
+<category>
+    <pattern>* PROGRAMAÇÃO EVOLUTIVA</pattern>
+    <template>
+        <random>
+            <li>Exemplo de programação evolutiva:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>PROGRAMAÇÃO EVOLUTIVA</pattern>
+    <template>
+        <random>
+            <li>Exemplo de programação evolutiva:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* PROGRAMAÇÃO EVOLUTIVA *</pattern>
+    <template>
+        <random>
+            <li>Exemplo de programação evolutiva:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>PROGRAMAÇÃO EVOLUTIVA *</pattern>
+    <template>
+        <random>
+            <li>Exemplo de programação evolutiva:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* PROGRAMACAO EVOLUTIVA</pattern>
+    <template>
+        <random>
+            <li>Exemplo de programação evolutiva:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>PROGRAMACAO EVOLUTIVA</pattern>
+    <template>
+        <random>
+            <li>Exemplo de programação evolutiva:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* PROGRAMACAO EVOLUTIVA *</pattern>
+    <template>
+        <random>
+            <li>Exemplo de programação evolutiva:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>PROGRAMACAO EVOLUTIVA *</pattern>
+    <template>
+        <random>
+            <li>Exemplo de programação evolutiva:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AG</pattern>
+    <template>
+        <random>
+            <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+            <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+            <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+            <li>Exemplo de um algoritmo genético:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                recombine P1(t); //reprodução (gera descendentes)
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>AG</pattern>
+    <template>
+        <random>
+            <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+            <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+            <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+            <li>Exemplo de um algoritmo genético:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                recombine P1(t); //reprodução (gera descendentes)
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* AG *</pattern>
+    <template>
+        <random>
+            <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+            <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+            <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+            <li>Exemplo de um algoritmo genético:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                recombine P1(t); //reprodução (gera descendentes)
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>AG *</pattern>
+    <template>
+        <random>
+            <li>Trata-se de uma técnica probabilística para a solução de problemas de otimização.</li>
+            <li>O funcionamento dos AG começa com um conjunto de k estados gerados aleatoriamente chamado de população.</li>
+            <li>Para cada par selecionado, é escolhido ao acaso um ponto de crossover dentre as posições na cadeia do indivíduo.</li>
+            <li>Exemplo de um algoritmo genético:
+            t:=0 //tempo inicial
+            inicialize a população P(t); //cria a população inicial
+            calcule a(P(t)) //calcula a aptidão (função objetivo)
+            enquanto não terminar faça{
+                t:T+1;
+                P1:=selecionadescendentes p(t); //seleciona os mais aptos
+                recombine P1(t); //reprodução (gera descendentes)
+                mude P1(t); //mutação (diversifica)
+                evaluate p2(t); //evolução
+                P:=sobrevivente P, P1(t); //escolhe sobreviventes
+            }
+            fim</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CRENÇAS</pattern>
+    <template>
+        <random>
+            <li>Crenças em agentes BDI são informações que o agente mantém a respeito de si próprio e do ambiente em que ele se encontra.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CRENÇAS</pattern>
+    <template>
+        <random>
+            <li>Crenças em agentes BDI são informações que o agente mantém a respeito de si próprio e do ambiente em que ele se encontra.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CRENÇAS *</pattern>
+    <template>
+        <random>
+            <li>Crenças em agentes BDI são informações que o agente mantém a respeito de si próprio e do ambiente em que ele se encontra.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CRENÇAS *</pattern>
+    <template>
+        <random>
+            <li>Crenças em agentes BDI são informações que o agente mantém a respeito de si próprio e do ambiente em que ele se encontra.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CRENCAS</pattern>
+    <template>
+        <random>
+            <li>Crenças em agentes BDI são informações que o agente mantém a respeito de si próprio e do ambiente em que ele se encontra.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CRENCAS</pattern>
+    <template>
+        <random>
+            <li>Crenças em agentes BDI são informações que o agente mantém a respeito de si próprio e do ambiente em que ele se encontra.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CRENCAS *</pattern>
+    <template>
+        <random>
+            <li>Crenças em agentes BDI são informações que o agente mantém a respeito de si próprio e do ambiente em que ele se encontra.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CRENCAS *</pattern>
+    <template>
+        <random>
+            <li>Crenças em agentes BDI são informações que o agente mantém a respeito de si próprio e do ambiente em que ele se encontra.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* INTENÇÕES</pattern>
+    <template>
+        <random>
+            <li>Em um agente BDI, intenções representam objetivos que o agente deliberou alcançar.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>INTENÇÕES</pattern>
+    <template>
+        <random>
+            <li>Em um agente BDI, intenções representam objetivos que o agente deliberou alcançar.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* INTENÇÕES *</pattern>
+    <template>
+        <random>
+            <li>Em um agente BDI, intenções representam objetivos que o agente deliberou alcançar.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>INTENÇÕES *</pattern>
+    <template>
+        <random>
+            <li>Em um agente BDI, intenções representam objetivos que o agente deliberou alcançar.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* INTENCOES</pattern>
+    <template>
+        <random>
+            <li>Em um agente BDI, intenções representam objetivos que o agente deliberou alcançar.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* INTENCOES *</pattern>
+    <template>
+        <random>
+            <li>Em um agente BDI, intenções representam objetivos que o agente deliberou alcançar.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>INTENCOES</pattern>
+    <template>
+        <random>
+            <li>Em um agente BDI, intenções representam objetivos que o agente deliberou alcançar.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>INTENCOES *</pattern>
+    <template>
+        <random>
+            <li>Em um agente BDI, intenções representam objetivos que o agente deliberou alcançar.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* BDI</pattern>
+    <template>
+        <random>
+            <li>Agentes BDI tem a capacidade de ativar um ou mais objetivos, como resultado de percepções do ambiente e/ou de recepção de mensagens.</li>
+            <li>Exemplo de um agente BDI tutor:
+            CRENÇA: matemática;
+            META: ensinar matemática promove a anscenção social;
+            DESEJO: aprendizado dos alunos;
+            INTENÇÃO: ensinar os alunos;
+            PLANO: exercícios, identificar o perfil/dificuldades do aluno, auxiliar o aluno.
+            </li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>BDI</pattern>
+    <template>
+        <random>
+            <li>Agentes BDI tem a capacidade de ativar um ou mais objetivos, como resultado de percepções do ambiente e/ou de recepção de mensagens.</li>
+            <li>Exemplo de um agente BDI tutor:
+            CRENÇA: matemática;
+            META: ensinar matemática promove a anscenção social;
+            DESEJO: aprendizado dos alunos;
+            INTENÇÃO: ensinar os alunos;
+            PLANO: exercícios, identificar o perfil/dificuldades do aluno, auxiliar o aluno.
+            </li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>BDI *</pattern>
+    <template>
+        <random>
+            <li>Agentes BDI tem a capacidade de ativar um ou mais objetivos, como resultado de percepções do ambiente e/ou de recepção de mensagens.</li>
+            <li>Exemplo de um agente BDI tutor:
+            CRENÇA: matemática;
+            META: ensinar matemática promove a anscenção social;
+            DESEJO: aprendizado dos alunos;
+            INTENÇÃO: ensinar os alunos;
+            PLANO: exercícios, identificar o perfil/dificuldades do aluno, auxiliar o aluno.
+            </li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* BDI *</pattern>
+    <template>
+        <random>
+            <li>Agentes BDI tem a capacidade de ativar um ou mais objetivos, como resultado de percepções do ambiente e/ou de recepção de mensagens.</li>
+            <li>Exemplo de um agente BDI tutor:
+            CRENÇA: matemática;
+            META: ensinar matemática promove a anscenção social;
+            DESEJO: aprendizado dos alunos;
+            INTENÇÃO: ensinar os alunos;
+            PLANO: exercícios, identificar o perfil/dificuldades do aluno, auxiliar o aluno.
+            </li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES MÓVEIS</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES MÓVEIS *</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES MÓVEIS</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES MÓVEIS *</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES MOVEIS</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES MOVEIS</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES MOVEIS *</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES MOVEIS *</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE MOVEL</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE MOVEL</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE MOVEL *</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE MOVEL *</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE MÓVEL</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE MÓVEL</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE MÓVEL *</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE MÓVEL *</pattern>
+    <template>
+        <random>
+            <li>Programação remota (chamada de procedimento local), inteligência alta.</li>
+            <li>Reduz a carga da rede e da utilização de recursos no cliente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES ESTACIONÁRIOS</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES ESTACIONÁRIOS *</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>AGENTES ESTACIONÁRIOS</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES ESTACIONÁRIOS *</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* AGENTES ESTACIONARIOS</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES ESTACIONARIOS</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES ESTACIONARIOS *</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES ESTACIONARIOS *</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* AGENTE ESTACIONARIO</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE ESTACIONARIO</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE ESTACIONARIO *</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE ESTACIONARIO *</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE ESTACIONÁRIO</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE ESTACIONÁRIO</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE ESTACIONÁRIO *</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE ESTACIONÁRIO *</pattern>
+    <template>
+        <random>
+            <li>Chamada de procedimento remoto.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE REATIVO</pattern>
+    <template>
+        <random>
+            <li>As ações do agente são reações às percepções do ambiente externo.</li>
+            <li>Características: reagir a percepções do meio externo, não apresentar conhecimento explícito, não possuir memória das ações, não há representação do ambiente, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE REATIVO</pattern>
+    <template>
+        <random>
+            <li>As ações do agente são reações às percepções do ambiente externo.</li>
+            <li>Características: reagir a percepções do meio externo, não apresentar conhecimento explícito, não possuir memória das ações, não há representação do ambiente, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE REATIVO *</pattern>
+    <template>
+        <random>
+            <li>As ações do agente são reações às percepções do ambiente externo.</li>
+            <li>Características: reagir a percepções do meio externo, não apresentar conhecimento explícito, não possuir memória das ações, não há representação do ambiente, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE REATIVO *</pattern>
+    <template>
+        <random>
+            <li>As ações do agente são reações às percepções do ambiente externo.</li>
+            <li>Características: reagir a percepções do meio externo, não apresentar conhecimento explícito, não possuir memória das ações, não há representação do ambiente, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES REATIVOS</pattern>
+    <template>
+        <random>
+            <li>As ações do agente são reações às percepções do ambiente externo.</li>
+            <li>Características: reagir a percepções do meio externo, não apresentar conhecimento explícito, não possuir memória das ações, não há representação do ambiente, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES REATIVOS</pattern>
+    <template>
+        <random>
+            <li>As ações do agente são reações às percepções do ambiente externo.</li>
+            <li>Características: reagir a percepções do meio externo, não apresentar conhecimento explícito, não possuir memória das ações, não há representação do ambiente, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES REATIVOS *</pattern>
+    <template>
+        <random>
+            <li>As ações do agente são reações às percepções do ambiente externo.</li>
+            <li>Características: reagir a percepções do meio externo, não apresentar conhecimento explícito, não possuir memória das ações, não há representação do ambiente, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES REATIVOS *</pattern>
+    <template>
+        <random>
+            <li>As ações do agente são reações às percepções do ambiente externo.</li>
+            <li>Características: reagir a percepções do meio externo, não apresentar conhecimento explícito, não possuir memória das ações, não há representação do ambiente, etc.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* IAD</pattern>
+    <template>
+        <random>
+            <li>Significa "Inteligência Artificial Distribuída".</li>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* Inteligência Artificial Distribuída</pattern>
+    <template>
+        <random>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* IAD *</pattern>
+    <template>
+        <random>
+            <li>Significa "Inteligência Artificial Distribuída".</li>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* Inteligência Artificial Distribuída *</pattern>
+    <template>
+        <random>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>IAD</pattern>
+    <template>
+        <random>
+            <li>Significa "Inteligência Artificial Distribuída".</li>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Inteligência Artificial Distribuída</pattern>
+    <template>
+        <random>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>IAD *</pattern>
+    <template>
+        <random>
+            <li>Significa "Inteligência Artificial Distribuída".</li>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Inteligência Artificial Distribuída *</pattern>
+    <template>
+        <random>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* Inteligencia Artificial Distribuida</pattern>
+    <template>
+        <random>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* Inteligencia Artificial Distribuida *</pattern>
+    <template>
+        <random>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Inteligencia Artificial Distribuida</pattern>
+    <template>
+        <random>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Inteligencia Artificial Distribuida *</pattern>
+    <template>
+        <random>
+            <li>É o princípio de SMA (Sistemas Multi-Agentes) e RDP (Resolução Distribuída de Problemas).</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* SMA</pattern>
+    <template>
+        <random>
+            <li>Significa "Sistemas Multi-Agentes".</li>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* Sistemas Multiagentes</pattern>
+    <template>
+        <random>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* Sistemas Multi-agentes</pattern>
+    <template>
+        <random>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SMA</pattern>
+    <template>
+        <random>
+            <li>Significa "Sistemas Multi-Agentes".</li>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Sistemas multiagentes</pattern>
+    <template>
+        <random>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Sistemas multi-agentes</pattern>
+    <template>
+        <random>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>* SMA *</pattern>
+    <template>
+        <random>
+            <li>Significa "Sistemas Multi-Agentes".</li>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* Sistemas multiagentes *</pattern>
+    <template>
+        <random>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* Sistemas multi-agentes *</pattern>
+    <template>
+        <random>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SMA *</pattern>
+    <template>
+        <random>
+            <li>Significa "Sistemas Multi-Agentes".</li>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Sistemas multiagentes *</pattern>
+    <template>
+        <random>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>Sistemas multi-agentes *</pattern>
+    <template>
+        <random>
+            <li>É parte da IAD, onde não trata um problema específico, mas sim um domínio específico.</li>
+            <li>É um sistema que consiste de um número de agentes que interagem uns com os outros, sendo capazes de cooperarem, coordenarem-se e negociarem entre si.</li>
+            <li>Três tipo de ambientes:
+            a) FÍSICO: robô;
+            b) SOFTWARE: softbots;
+            c) REALIDADE VIRTUAL: softbots e avatares.</li>
+            <li>A coordenação da comunição de dá por dois tipos: a) COORDENAÇÃO POR COMUNICAÇÃO DIRETA: os próprios agentes se coordenam; b) COORDENAÇÃO POR COMUNICAÇÃO AUXILIADA: auxílio de programas para coordenar a troca de mensagens.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AXIOMA</pattern>
+    <template>
+        <random>
+            <li>Componente(s) básico(s) de uma ontologia, utilizado(s) para modelar sentenças verdadeiras.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AXIOMAS</pattern>
+    <template>
+        <random>
+            <li>Componente(s) básico(s) de uma ontologia, utilizado(s) para modelar sentenças verdadeiras.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AXIOMA</pattern>
+    <template>
+        <random>
+            <li>Componente(s) básico(s) de uma ontologia, utilizado(s) para modelar sentenças verdadeiras.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AXIOMAS</pattern>
+    <template>
+        <random>
+            <li>Componente(s) básico(s) de uma ontologia, utilizado(s) para modelar sentenças verdadeiras.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AXIOMA *</pattern>
+    <template>
+        <random>
+            <li>Componente(s) básico(s) de uma ontologia, utilizado(s) para modelar sentenças verdadeiras.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AXIOMAS *</pattern>
+    <template>
+        <random>
+            <li>Componente(s) básico(s) de uma ontologia, utilizado(s) para modelar sentenças verdadeiras.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AXIOMA *</pattern>
+    <template>
+        <random>
+            <li>Componente(s) básico(s) de uma ontologia, utilizado(s) para modelar sentenças verdadeiras.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AXIOMAS *</pattern>
+    <template>
+        <random>
+            <li>Componente(s) básico(s) de uma ontologia, utilizado(s) para modelar sentenças verdadeiras.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* COMPUTAÇÃO ADAPTATIVA</pattern>
+    <template>
+        <random>
+            <li>Também chamada de Estrutura Neural.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COMPUTAÇÃO ADAPTATIVA</pattern>
+    <template>
+        <random>
+            <li>Também chamada de Estrutura Neural.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COMPUTAÇÃO ADAPTATIVA *</pattern>
+    <template>
+        <random>
+            <li>Também chamada de Estrutura Neural.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COMPUTAÇÃO ADAPTATIVA *</pattern>
+    <template>
+        <random>
+            <li>Também chamada de Estrutura Neural.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COMPUTACAO ADAPTATIVA</pattern>
+    <template>
+        <random>
+            <li>Também chamada de Estrutura Neural.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COMPUTACAO ADAPTATIVA *</pattern>
+    <template>
+        <random>
+            <li>Também chamada de Estrutura Neural.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COMPUTACAO ADAPTATIVA</pattern>
+    <template>
+        <random>
+            <li>Também chamada de Estrutura Neural.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COMPUTACAO ADAPTATIVA *</pattern>
+    <template>
+        <random>
+            <li>Também chamada de Estrutura Neural.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* ONTOLOGIA</pattern>
+    <template>
+        <random>
+            <li>Serve para facilitar o compartilhamento e reuso da informação.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ONTOLOGIA *</pattern>
+    <template>
+        <random>
+            <li>Serve para facilitar o compartilhamento e reuso da informação.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ONTOLOGIA</pattern>
+    <template>
+        <random>
+            <li>Serve para facilitar o compartilhamento e reuso da informação.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ONTOLOGIA *</pattern>
+    <template>
+        <random>
+            <li>Serve para facilitar o compartilhamento e reuso da informação.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ONTOLOGIAS</pattern>
+    <template>
+        <random>
+            <li>Serve para facilitar o compartilhamento e reuso da informação.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ONTOLOGIAS</pattern>
+    <template>
+        <random>
+            <li>Serve para facilitar o compartilhamento e reuso da informação.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ONTOLOGIAS *</pattern>
+    <template>
+        <random>
+            <li>Serve para facilitar o compartilhamento e reuso da informação.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ONTOLOGIAS *</pattern>
+    <template>
+        <random>
+            <li>Serve para facilitar o compartilhamento e reuso da informação.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* WEB SEMÂNTICA</pattern>
+    <template>
+        <random>
+            <li>É uma evolução da web atual, sendo projetada para ser entendida pelas máquinas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* WEB SEMÂNTICA *</pattern>
+    <template>
+        <random>
+            <li>É uma evolução da web atual, sendo projetada para ser entendida pelas máquinas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>WEB SEMÂNTICA</pattern>
+    <template>
+        <random>
+            <li>É uma evolução da web atual, sendo projetada para ser entendida pelas máquinas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>WEB SEMÂNTICA *</pattern>
+    <template>
+        <random>
+            <li>É uma evolução da web atual, sendo projetada para ser entendida pelas máquinas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* WEB SEMANTICA</pattern>
+    <template>
+        <random>
+            <li>É uma evolução da web atual, sendo projetada para ser entendida pelas máquinas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>WEB SEMANTICA</pattern>
+    <template>
+        <random>
+            <li>É uma evolução da web atual, sendo projetada para ser entendida pelas máquinas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* WEB SEMANTICA *</pattern>
+    <template>
+        <random>
+            <li>É uma evolução da web atual, sendo projetada para ser entendida pelas máquinas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>WEB SEMANTICA *</pattern>
+    <template>
+        <random>
+            <li>É uma evolução da web atual, sendo projetada para ser entendida pelas máquinas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* WEB TRADICIONAL</pattern>
+    <template>
+        <random>
+            <li>Foi desenvolvida para ser entendida pelos usuários.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* WEB TRADICIONAL *</pattern>
+    <template>
+        <random>
+            <li>Foi desenvolvida para ser entendida pelos usuários.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>WEB TRADICIONAL</pattern>
+    <template>
+        <random>
+            <li>Foi desenvolvida para ser entendida pelos usuários.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>WEB TRADICIONAL *</pattern>
+    <template>
+        <random>
+            <li>Foi desenvolvida para ser entendida pelos usuários.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* REDES SEMANTICAS</pattern>
+    <template>
+        <random>
+            <li>Parecida com ontologias e POO em suas classificações, todos têm o princípio da reutilização, possuem classes, atributos, métodos, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* REDES SEMANTICAS *</pattern>
+    <template>
+        <random>
+            <li>Parecida com ontologias e POO em suas classificações, todos têm o princípio da reutilização, possuem classes, atributos, métodos, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REDES SEMANTICAS</pattern>
+    <template>
+        <random>
+            <li>Parecida com ontologias e POO em suas classificações, todos têm o princípio da reutilização, possuem classes, atributos, métodos, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REDES SEMANTICAS *</pattern>
+    <template>
+        <random>
+            <li>Parecida com ontologias e POO em suas classificações, todos têm o princípio da reutilização, possuem classes, atributos, métodos, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* REDES SEMÂNTICAS</pattern>
+    <template>
+        <random>
+            <li>Parecida com ontologias e POO em suas classificações, todos têm o princípio da reutilização, possuem classes, atributos, métodos, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REDES SEMÂNTICAS</pattern>
+    <template>
+        <random>
+            <li>Parecida com ontologias e POO em suas classificações, todos têm o princípio da reutilização, possuem classes, atributos, métodos, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* REDES SEMÂNTICAS *</pattern>
+    <template>
+        <random>
+            <li>Parecida com ontologias e POO em suas classificações, todos têm o princípio da reutilização, possuem classes, atributos, métodos, etc.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REDES SEMÂNTICAS *</pattern>
+    <template>
+        <random>
+            <li>Parecida com ontologias e POO em suas classificações, todos têm o princípio da reutilização, possuem classes, atributos, métodos, etc.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* NOÇÃO FORTE</pattern>
+    <template>
+        <random>
+            <li>Mobilidade, benevolência, raciocínio/aprendizado, colaboração e adaptabilidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>NOÇÃO FORTE</pattern>
+    <template>
+        <random>
+            <li>Mobilidade, benevolência, raciocínio/aprendizado, colaboração e adaptabilidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* NOÇÃO FORTE *</pattern>
+    <template>
+        <random>
+            <li>Mobilidade, benevolência, raciocínio/aprendizado, colaboração e adaptabilidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>NOÇÃO FORTE *</pattern>
+    <template>
+        <random>
+            <li>Mobilidade, benevolência, raciocínio/aprendizado, colaboração e adaptabilidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* NOCAO FORTE</pattern>
+    <template>
+        <random>
+            <li>Mobilidade, benevolência, raciocínio/aprendizado, colaboração e adaptabilidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>NOCAO FORTE</pattern>
+    <template>
+        <random>
+            <li>Mobilidade, benevolência, raciocínio/aprendizado, colaboração e adaptabilidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* NOCAO FORTE *</pattern>
+    <template>
+        <random>
+            <li>Mobilidade, benevolência, raciocínio/aprendizado, colaboração e adaptabilidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>NOCAO FORTE *</pattern>
+    <template>
+        <random>
+            <li>Mobilidade, benevolência, raciocínio/aprendizado, colaboração e adaptabilidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* NOCAO FRACA</pattern>
+    <template>
+        <random>
+            <li>Reatividade, Proatividade, Orientado a meta, Autonomia, Sociabilidade, Continuidade temporal, Comunicação, Veracidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>NOCAO FRACA</pattern>
+    <template>
+        <random>
+            <li>Reatividade, Proatividade, Orientado a meta, Autonomia, Sociabilidade, Continuidade temporal, Comunicação, Veracidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* NOCAO FRACA *</pattern>
+    <template>
+        <random>
+            <li>Reatividade, Proatividade, Orientado a meta, Autonomia, Sociabilidade, Continuidade temporal, Comunicação, Veracidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>NOCAO FRACA *</pattern>
+    <template>
+        <random>
+            <li>Reatividade, Proatividade, Orientado a meta, Autonomia, Sociabilidade, Continuidade temporal, Comunicação, Veracidade</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* NOÇÃO FRACA</pattern>
+    <template>
+        <random>
+            <li>Reatividade, Proatividade, Orientado a meta, Autonomia, Sociabilidade, Continuidade temporal, Comunicação, Veracidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>NOÇÃO FRACA</pattern>
+    <template>
+        <random>
+            <li>Reatividade, Proatividade, Orientado a meta, Autonomia, Sociabilidade, Continuidade temporal, Comunicação, Veracidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* NOÇÃO FRACA *</pattern>
+    <template>
+        <random>
+            <li>Reatividade, Proatividade, Orientado a meta, Autonomia, Sociabilidade, Continuidade temporal, Comunicação, Veracidade</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>NOÇÃO FRACA *</pattern>
+    <template>
+        <random>
+            <li>Reatividade, Proatividade, Orientado a meta, Autonomia, Sociabilidade, Continuidade temporal, Comunicação, Veracidade</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* CROSSOVER</pattern>
+    <template>
+        <random>
+            <li>Em AG, é uma operação em que características das soluções escolhidas são recombinadas, gerando novas soluções ou indivíduos.</li>
+            <li>Reprodução sexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CROSSOVER</pattern>
+    <template>
+        <random>
+            <li>Em AG, é uma operação em que características das soluções escolhidas são recombinadas, gerando novas soluções ou indivíduos.</li>
+            <li>Reprodução sexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CROSSOVER *</pattern>
+    <template>
+        <random>
+            <li>Em AG, é uma operação em que características das soluções escolhidas são recombinadas, gerando novas soluções ou indivíduos.</li>
+            <li>Reprodução sexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CROSSOVER *</pattern>
+    <template>
+        <random>
+            <li>Em AG, é uma operação em que características das soluções escolhidas são recombinadas, gerando novas soluções ou indivíduos.</li>
+            <li>Reprodução sexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* DUPLICAÇÃO</pattern>
+    <template>
+        <random>
+            <li>Reprodução assexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>DUPLICAÇÃO</pattern>
+    <template>
+        <random>
+            <li>Reprodução assexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* DUPLICAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Reprodução assexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>DUPLICAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Reprodução assexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* DUPLICACAO</pattern>
+    <template>
+        <random>
+            <li>Reprodução assexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>DUPLICACAO</pattern>
+    <template>
+        <random>
+            <li>Reprodução assexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* DUPLICACAO *</pattern>
+    <template>
+        <random>
+            <li>Reprodução assexuada.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>DUPLICACAO *</pattern>
+    <template>
+        <random>
+            <li>Reprodução assexuada.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* REPRODUCAO</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REPRODUCAO</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* REPRODUCAO *</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REPRODUCAO *</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* REPRODUÇÃO</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REPRODUÇÃO</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* REPRODUÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REPRODUÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* RECOMBINACAO</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>RECOMBINACAO</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>RECOMBINACAO *</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* RECOMBINACAO *</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* RECOMBINAÇÃO</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>RECOMBINAÇÃO</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* RECOMBINAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>RECOMBINAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Combinar material genético dos mais adaptados.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE</pattern>
+    <template>
+        <random>
+            <li>Entidade cognitiva, ativa e autônoma transparente ao usuário.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE</pattern>
+    <template>
+        <random>
+            <li>Entidade cognitiva, ativa e autônoma transparente ao usuário.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE *</pattern>
+    <template>
+        <random>
+            <li>Entidade cognitiva, ativa e autônoma transparente ao usuário.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE *</pattern>
+    <template>
+        <random>
+            <li>Entidade cognitiva, ativa e autônoma transparente ao usuário.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE APRENDIZ</pattern>
+    <template>
+        <random>
+            <li>Encontra padrões repetitivos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE APRENDIZ</pattern>
+    <template>
+        <random>
+            <li>Encontra padrões repetitivos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE APRENDIZ *</pattern>
+    <template>
+        <random>
+            <li>Encontra padrões repetitivos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE APRENDIZ *</pattern>
+    <template>
+        <random>
+            <li>Encontra padrões repetitivos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES APRENDIZES</pattern>
+    <template>
+        <random>
+            <li>Encontram padrões repetitivos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES APRENDIZES</pattern>
+    <template>
+        <random>
+            <li>Encontram padrões repetitivos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES APRENDIZES *</pattern>
+    <template>
+        <random>
+            <li>Encontram padrões repetitivos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES APRENDIZES *</pattern>
+    <template>
+        <random>
+            <li>Encontram padrões repetitivos.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE COGNITIVO</pattern>
+    <template>
+        <random>
+            <li>Raciocina sobre as ações passadas e planeja as do futuro.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE COGNITIVO</pattern>
+    <template>
+        <random>
+            <li>Raciocina sobre as ações passadas e planeja as do futuro.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE COGNITIVO *</pattern>
+    <template>
+        <random>
+            <li>Raciocina sobre as ações passadas e planeja as do futuro.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE COGNITIVO *</pattern>
+    <template>
+        <random>
+            <li>Raciocina sobre as ações passadas e planeja as do futuro.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* AGENTES COGNITIVOS</pattern>
+    <template>
+        <random>
+            <li>Raciocinam sobre as ações passadas e planeja as do futuro.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES COGNITIVOS</pattern>
+    <template>
+        <random>
+            <li>Raciocinam sobre as ações passadas e planeja as do futuro.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES COGNITIVOS *</pattern>
+    <template>
+        <random>
+            <li>Raciocinam sobre as ações passadas e planeja as do futuro.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES COGNITIVOS *</pattern>
+    <template>
+        <random>
+            <li>Raciocinam sobre as ações passadas e planeja as do futuro.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES INTELIGENTES</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES INTELIGENTES</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES INTELIGENTES *</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES *</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTES</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES *</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>AGENTES</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTES INTELIGENTES *</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE INTELIGENTE</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE INTELIGENTE</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AGENTE INTELIGENTE *</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AGENTE INTELIGENTE *</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AI</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AI</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AI *</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AI *</pattern>
+    <template>
+        <random>
+            <li>Possuem alto grau de autonomia, inteligência e mobilidade.</li>
+        </random>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>* PEAS</pattern>
+    <template>
+        <random>
+            <li>A sigla significa "Performance", "Environment", "Actuators" e "Sensors".</li>
+            <li>Exemplo de PEAS de um agente de trânsito:
+            P: menor número de acidentes, melhorar o caminho a ser seguido;
+            E: calçadas, sinaleiras, placas, faixas, etc.;
+            A: sensores, controladores, painéis, etc.;
+            S: menor número de infrações, melhor aproveitamento do tráfego.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>PEAS</pattern>
+    <template>
+        <random>
+            <li>A sigla significa "Performance", "Environment", "Actuators" e "Sensors".</li>
+           <li>Exemplo de PEAS de um agente de trânsito:
+            P: menor número de acidentes, melhorar o caminho a ser seguido;
+            E: calçadas, sinaleiras, placas, faixas, etc.;
+            A: sensores, controladores, painéis, etc.;
+            S: menor número de infrações, melhor aproveitamento do tráfego.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* PEAS *</pattern>
+    <template>
+        <random>
+            <li>A sigla significa "Performance", "Environment", "Actuators" e "Sensors".</li>
+            <li>Exemplo de PEAS de um agente de trânsito:
+            P: menor número de acidentes, melhorar o caminho a ser seguido;
+            E: calçadas, sinaleiras, placas, faixas, etc.;
+            A: sensores, controladores, painéis, etc.;
+            S: menor número de infrações, melhor aproveitamento do tráfego.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>PEAS *</pattern>
+    <template>
+        <random>
+            <li>A sigla significa "Performance", "Environment", "Actuators" e "Sensors".</li>
+            <li>Exemplo de PEAS de um agente de trânsito:
+            P: menor número de acidentes, melhorar o caminho a ser seguido;
+            E: calçadas, sinaleiras, placas, faixas, etc.;
+            A: sensores, controladores, painéis, etc.;
+            S: menor número de infrações, melhor aproveitamento do tráfego.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ARQUITETURA DE AGENTES</pattern>
+    <template>
+        <random>
+            <li>As propriedades dos agentes devem estar implícitas na arquitetura.</li>
+            <li>Dois tipos de arquiteturas:
+            a) ARQ. DELIBERATIVA: BDI, modelo simbólico interno do ambiente capaz de tomar decisões lógicas (entrada -> interação -> fusão da informação -> processamento da informação -> ação -> interação -> saída);
+            b) ARQ. REATIVA: menor capacidade para realizar raciocínios complexox, sem modelo simbólico, inteligência a partir de interações com o ambiente (entrada -> sensores -> módulo de competência -> atuadores -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ARQUITETURA DE AGENTES</pattern>
+    <template>
+        <random>
+            <li>As propriedades dos agentes devem estar implícitas na arquitetura.</li>
+            <li>Dois tipos de arquiteturas:
+            a) ARQ. DELIBERATIVA: BDI, modelo simbólico interno do ambiente capaz de tomar decisões lógicas (entrada -> interação -> fusão da informação -> processamento da informação -> ação -> interação -> saída);
+            b) ARQ. REATIVA: menor capacidade para realizar raciocínios complexox, sem modelo simbólico, inteligência a partir de interações com o ambiente (entrada -> sensores -> módulo de competência -> atuadores -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ARQUITETURA DE AGENTES *</pattern>
+    <template>
+        <random>
+            <li>As propriedades dos agentes devem estar implícitas na arquitetura.</li>
+            <li>Dois tipos de arquiteturas:
+            a) ARQ. DELIBERATIVA: BDI, modelo simbólico interno do ambiente capaz de tomar decisões lógicas (entrada -> interação -> fusão da informação -> processamento da informação -> ação -> interação -> saída);
+            b) ARQ. REATIVA: menor capacidade para realizar raciocínios complexox, sem modelo simbólico, inteligência a partir de interações com o ambiente (entrada -> sensores -> módulo de competência -> atuadores -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ARQUITETURA DE AGENTES *</pattern>
+    <template>
+        <random>
+            <li>As propriedades dos agentes devem estar implícitas na arquitetura.</li>
+            <li>Dois tipos de arquiteturas:
+            a) ARQ. DELIBERATIVA: BDI, modelo simbólico interno do ambiente capaz de tomar decisões lógicas (entrada -> interação -> fusão da informação -> processamento da informação -> ação -> interação -> saída);
+            b) ARQ. REATIVA: menor capacidade para realizar raciocínios complexox, sem modelo simbólico, inteligência a partir de interações com o ambiente (entrada -> sensores -> módulo de competência -> atuadores -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ARQUITETURA DELIBERATIVA</pattern>
+    <template>
+        <random>
+            <li>BDI, modelo simbólico interno do ambiente capaz de tomar decisões lógicas (entrada -> interação -> fusão da informação -> processamento da informação -> ação -> interação -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ARQUITETURA DELIBERATIVA</pattern>
+    <template>
+        <random>
+            <li>BDI, modelo simbólico interno do ambiente capaz de tomar decisões lógicas (entrada -> interação -> fusão da informação -> processamento da informação -> ação -> interação -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ARQUITETURA DELIBERATIVA *</pattern>
+    <template>
+        <random>
+            <li>BDI, modelo simbólico interno do ambiente capaz de tomar decisões lógicas (entrada -> interação -> fusão da informação -> processamento da informação -> ação -> interação -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ARQUITETURA DELIBERATIVA *</pattern>
+    <template>
+        <random>
+            <li>BDI, modelo simbólico interno do ambiente capaz de tomar decisões lógicas (entrada -> interação -> fusão da informação -> processamento da informação -> ação -> interação -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ARQUITETURA REATIVA</pattern>
+    <template>
+        <random>
+            <li>Menor capacidade para realizar raciocínios complexox, sem modelo simbólico, inteligência a partir de interações com o ambiente (entrada -> sensores -> módulo de competência -> atuadores -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ARQUITETURA REATIVA</pattern>
+    <template>
+        <random>
+            <li>Menor capacidade para realizar raciocínios complexox, sem modelo simbólico, inteligência a partir de interações com o ambiente (entrada -> sensores -> módulo de competência -> atuadores -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ARQUITETURA REATIVA *</pattern>
+    <template>
+        <random>
+            <li>Menor capacidade para realizar raciocínios complexox, sem modelo simbólico, inteligência a partir de interações com o ambiente (entrada -> sensores -> módulo de competência -> atuadores -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ARQUITETURA REATIVA *</pattern>
+    <template>
+        <random>
+            <li>Menor capacidade para realizar raciocínios complexox, sem modelo simbólico, inteligência a partir de interações com o ambiente (entrada -> sensores -> módulo de competência -> atuadores -> saída).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ARQUITETURA</pattern>
+    <template>
+        <random>
+            <li>Dividida entre arquitetura reativa e deliberativa.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ARQUITETURA</pattern>
+    <template>
+        <random>
+            <li>Dividida entre arquitetura reativa e deliberativa.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ARQUITETURA *</pattern>
+    <template>
+        <random>
+            <li>Dividida entre arquitetura reativa e deliberativa.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ARQUITETURA *</pattern>
+    <template>
+        <random>
+            <li>Dividida entre arquitetura reativa e deliberativa.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* REATIVIDADE</pattern>
+    <template>
+        <random>
+            <li>Agir de forma apropriada a influências ou informação de seu ambiente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REATIVIDADE</pattern>
+    <template>
+        <random>
+            <li>Agir de forma apropriada a influências ou informação de seu ambiente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* REATIVIDADE *</pattern>
+    <template>
+        <random>
+            <li>Agir de forma apropriada a influências ou informação de seu ambiente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>REATIVIDADE *</pattern>
+    <template>
+        <random>
+            <li>Agir de forma apropriada a influências ou informação de seu ambiente.</li>
+        </random>
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>* PROATIVIDADE</pattern>
+    <template>
+        <random>
+            <li>Reage e tem iniciativa sob circunstâncias específicas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>PROATIVIDADE</pattern>
+    <template>
+        <random>
+            <li>Reage e tem iniciativa sob circunstâncias específicas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* PROATIVIDADE *</pattern>
+    <template>
+        <random>
+            <li>Reage e tem iniciativa sob circunstâncias específicas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>PROATIVIDADE *</pattern>
+    <template>
+        <random>
+            <li>Reage e tem iniciativa sob circunstâncias específicas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ORIENTADO A META</pattern>
+    <template>
+        <random>
+            <li>Metas que representam alternativas do fluxo de processamento, tem relação forte com proatividade para tomar iniciativa através das metas bem definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ORIENTADO A META</pattern>
+    <template>
+        <random>
+            <li>Metas que representam alternativas do fluxo de processamento, tem relação forte com proatividade para tomar iniciativa através das metas bem definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ORIENTADO A META *</pattern>
+    <template>
+        <random>
+            <li>Metas que representam alternativas do fluxo de processamento, tem relação forte com proatividade para tomar iniciativa através das metas bem definidas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ORIENTADO A META *</pattern>
+    <template>
+        <random>
+            <li>Metas que representam alternativas do fluxo de processamento, tem relação forte com proatividade para tomar iniciativa através das metas bem definidas.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>* RACIOCÍNIO</pattern>
+    <template>
+        <random>
+            <li>Similar a aprendizado. A inteligência do agente tem três características básicas: a) Base de conhecimento; b) Capacidade de raciocínio sobre a base de conheciento; c) Habildiade de aprender/adaptar-se a mudanças através de experiências passadas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* RACIOCÍNIO *</pattern>
+    <template>
+        <random>
+            <li>Similar a aprendizado. A inteligência do agente tem três características básicas: a) Base de conhecimento; b) Capacidade de raciocínio sobre a base de conheciento; c) Habildiade de aprender/adaptar-se a mudanças através de experiências passadas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>RACIOCÍNIO</pattern>
+    <template>
+        <random>
+            <li>Similar a aprendizado. A inteligência do agente tem três características básicas: a) Base de conhecimento; b) Capacidade de raciocínio sobre a base de conheciento; c) Habildiade de aprender/adaptar-se a mudanças através de experiências passadas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>RACIOCÍNIO *</pattern>
+    <template>
+        <random>
+            <li>Similar a aprendizado. A inteligência do agente tem três características básicas: a) Base de conhecimento; b) Capacidade de raciocínio sobre a base de conheciento; c) Habildiade de aprender/adaptar-se a mudanças através de experiências passadas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* APRENDIZADO</pattern>
+    <template>
+        <random>
+            <li>Similar a raciocínio. A inteligência do agente tem três características básicas: a) Base de conhecimento; b) Capacidade de raciocínio sobre a base de conheciento; c) Habildiade de aprender/adaptar-se a mudanças através de experiências passadas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>APRENDIZADO</pattern>
+    <template>
+        <random>
+            <li>Similar a raciocínio. A inteligência do agente tem três características básicas: a) Base de conhecimento; b) Capacidade de raciocínio sobre a base de conheciento; c) Habildiade de aprender/adaptar-se a mudanças através de experiências passadas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* APRENDIZADO *</pattern>
+    <template>
+        <random>
+            <li>Similar a raciocínio. A inteligência do agente tem três características básicas: a) Base de conhecimento; b) Capacidade de raciocínio sobre a base de conheciento; c) Habildiade de aprender/adaptar-se a mudanças através de experiências passadas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>APRENDIZADO *</pattern>
+    <template>
+        <random>
+            <li>Similar a raciocínio. A inteligência do agente tem três características básicas: a) Base de conhecimento; b) Capacidade de raciocínio sobre a base de conheciento; c) Habildiade de aprender/adaptar-se a mudanças através de experiências passadas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AUTONOMIA</pattern>
+    <template>
+        <random>
+            <li>Tomar decisões baseando-se nas metas, sem interferência do usuário (controle sob suas ações).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AUTONOMIA</pattern>
+    <template>
+        <random>
+            <li>Tomar decisões baseando-se nas metas, sem interferência do usuário (controle sob suas ações).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* AUTONOMIA *</pattern>
+    <template>
+        <random>
+            <li>Tomar decisões baseando-se nas metas, sem interferência do usuário (controle sob suas ações).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>AUTONOMIA *</pattern>
+    <template>
+        <random>
+            <li>Tomar decisões baseando-se nas metas, sem interferência do usuário (controle sob suas ações).</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SOCIABILIDADE</pattern>
+    <template>
+        <random>
+            <li>Interface, linguagem de programação, etc. entre usuário e agente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SOCIABILIDADE</pattern>
+    <template>
+        <random>
+            <li>Interface, linguagem de programação, etc. entre usuário e agente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* SOCIABILIDADE *</pattern>
+    <template>
+        <random>
+            <li>Interface, linguagem de programação, etc. entre usuário e agente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>SOCIABILIDADE *</pattern>
+    <template>
+        <random>
+            <li>Interface, linguagem de programação, etc. entre usuário e agente.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* MOBILIDADE</pattern>
+    <template>
+        <random>
+            <li>Capacidade de mover-se pela rede.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>MOBILIDADE</pattern>
+    <template>
+        <random>
+            <li>Capacidade de mover-se pela rede.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* MOBILIDADE *</pattern>
+    <template>
+        <random>
+            <li>Capacidade de mover-se pela rede.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>MOBILIDADE *</pattern>
+    <template>
+        <random>
+            <li>Capacidade de mover-se pela rede.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CONTINUIDADE TEMPORAL</pattern>
+    <template>
+        <random>
+            <li>Agente pode rodar em background ou foreground.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CONTINUIDADE TEMPORAL</pattern>
+    <template>
+        <random>
+            <li>Agente pode rodar em background ou foreground.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>CONTINUIDADE TEMPORAL *</pattern>
+    <template>
+        <random>
+            <li>Agente pode rodar em background ou foreground.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* CONTINUIDADE TEMPORAL *</pattern>
+    <template>
+        <random>
+            <li>Agente pode rodar em background ou foreground.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COMUNICAÇÃO</pattern>
+    <template>
+        <random>
+            <li>Capacidade de trocar informações com outros agentes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COMUNICAÇÃO</pattern>
+    <template>
+        <random>
+            <li>Capacidade de trocar informações com outros agentes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COMUNICAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Capacidade de trocar informações com outros agentes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COMUNICAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Capacidade de trocar informações com outros agentes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COMUNICACAO</pattern>
+    <template>
+        <random>
+            <li>Capacidade de trocar informações com outros agentes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COMUNICACAO</pattern>
+    <template>
+        <random>
+            <li>Capacidade de trocar informações com outros agentes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COMUNICACAO *</pattern>
+    <template>
+        <random>
+            <li>Capacidade de trocar informações com outros agentes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COMUNICACAO *</pattern>
+    <template>
+        <random>
+            <li>Capacidade de trocar informações com outros agentes.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COLABORAÇÃO</pattern>
+    <template>
+        <random>
+            <li>Não aceitar instruções sem considerações.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COLABORAÇÃO</pattern>
+    <template>
+        <random>
+            <li>Não aceitar instruções sem considerações.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COLABORAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Não aceitar instruções sem considerações.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COLABORAÇÃO *</pattern>
+    <template>
+        <random>
+            <li>Não aceitar instruções sem considerações.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COLABORACAO</pattern>
+    <template>
+        <random>
+            <li>Não aceitar instruções sem considerações.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COLABORACAO</pattern>
+    <template>
+        <random>
+            <li>Não aceitar instruções sem considerações.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* COLABORACAO *</pattern>
+    <template>
+        <random>
+            <li>Não aceitar instruções sem considerações.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>COLABORACAO *</pattern>
+    <template>
+        <random>
+            <li>Não aceitar instruções sem considerações.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ADAPTABILIDADE</pattern>
+    <template>
+        <random>
+            <li>Ajustar-se às preferências dos usuários.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ADAPTABILIDADE</pattern>
+    <template>
+        <random>
+            <li>Ajustar-se às preferências dos usuários.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* ADAPTABILIDADE *</pattern>
+    <template>
+        <random>
+            <li>Ajustar-se às preferências dos usuários.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>ADAPTABILIDADE *</pattern>
+    <template>
+        <random>
+            <li>Ajustar-se às preferências dos usuários.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* BENEVOLÊNCIA</pattern>
+    <template>
+        <random>
+            <li>Não terá objetivos conflitantes e fará o que for pedido.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>BENEVOLÊNCIA</pattern>
+    <template>
+        <random>
+            <li>Não terá objetivos conflitantes e fará o que for pedido.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* BENEVOLÊNCIA *</pattern>
+    <template>
+        <random>
+            <li>Não terá objetivos conflitantes e fará o que for pedido.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>BENEVOLÊNCIA *</pattern>
+    <template>
+        <random>
+            <li>Não terá objetivos conflitantes e fará o que for pedido.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* BENEVOLENCIA</pattern>
+    <template>
+        <random>
+            <li>Não terá objetivos conflitantes e fará o que for pedido.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>BENEVOLENCIA</pattern>
+    <template>
+        <random>
+            <li>Não terá objetivos conflitantes e fará o que for pedido.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* BENEVOLENCIA *</pattern>
+    <template>
+        <random>
+            <li>Não terá objetivos conflitantes e fará o que for pedido.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>BENEVOLENCIA *</pattern>
+    <template>
+        <random>
+            <li>Não terá objetivos conflitantes e fará o que for pedido.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* VERACIDADE</pattern>
+    <template>
+        <random>
+            <li>Pressupõem-se que o agente não repassará informações falsas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>VERACIDADE</pattern>
+    <template>
+        <random>
+            <li>Pressupõem-se que o agente não repassará informações falsas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>* VERACIDADE *</pattern>
+    <template>
+        <random>
+            <li>Pressupõem-se que o agente não repassará informações falsas.</li>
+        </random>
+    </template>
+</category>
+
+<category>
+    <pattern>VERACIDADE *</pattern>
+    <template>
+        <random>
+            <li>Pressupõem-se que o agente não repassará informações falsas.</li>
+        </random>
+    </template>
+</category>
+
+
+<category>
+    <pattern>*</pattern>
+    <template>Desculpe, eu não entendi...</template>
+</category>
+
+
+</aiml>
